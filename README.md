@@ -40,7 +40,7 @@ It is very important to take care of the patient, the patient will be followed b
 <br />
 
 <p>
-<img src="https://github.com/AndreRobinsonCC/osticket-prereqs/assets/133404844/43e291eb-382c-4b9f-a566-85ae7a53c2b1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 <p>    
