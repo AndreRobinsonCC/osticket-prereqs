@@ -40,7 +40,7 @@ It is very important to take care of the patient, the patient will be followed b
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/AndreRobinsonCC/post-install-config/assets/133404844/2fce3c79-0084-4f1a-a7d1-2ef44dd1a4d3" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 <p>    
