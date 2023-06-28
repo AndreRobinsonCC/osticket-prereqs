@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 </p>
 <p>
-It is very important to take care of the patient, the patient will be followed by the patient, but this time it will happen that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let no one be born.
+Install I.S.S and Web Platform Installer.
 </p>
 <br />
 
@@ -45,7 +45,7 @@ It is very important to take care of the patient, the patient will be followed b
 </p>
 <p>    
 
-It is very important to take care of the patient, the patient will be followed by the patient, but this time it will happen that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let no one be born.
+Install HeidiSQL to finish osTicket install. 
 </p>
 <br />
 
@@ -53,6 +53,6 @@ It is very important to take care of the patient, the patient will be followed b
 <img src="https://github.com/AndreRobinsonCC/osticket-prereqs/assets/133404844/ec484106-ec96-4c13-9aca-62a8c1f224e5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is very important to take care of the patient, the patient will be followed by the patient, but this time it will happen that there is a lot of work and pain. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the rebuke, in the pleasure he wants to be a hair from the pain, let no one be born.
+Installation complete and ready to browse to login page.
 </p>
 <br />
